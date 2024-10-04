@@ -58,7 +58,7 @@ const Footer = ({user}) => {
                             transition={{ delay: 0.5 }}
                             viewport={{once: true}}
                         >
-                            SADANAND JAISWAL
+                            NAVNEET
                         </motion.span>
                     </Col>
                     <Col size={12} sm={6} className="text-center text-sm-end">
