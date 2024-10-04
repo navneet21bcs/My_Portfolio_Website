@@ -129,7 +129,7 @@ export const Information = ({aboutDetails, languagesKnown}) => {
                                                     ? aboutDetails.cvfileLinkDark
                                                     : aboutDetails.cvfileLinkLight
                                             }`}
-                                            download="Sadanand Jaiswal's Resume"
+                                            download="Navneet's Resume"
                                             className="navbar-link"
                                             target="_blank"
                                         >
