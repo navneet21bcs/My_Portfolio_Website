@@ -67,7 +67,7 @@ const NavBar = () => {
                             whileHover={{ scale: 1.03 }}
                             whileTap={{ scale: 0.8 }}
                         >
-                            <span className="logo">SADANAND JAISWAL</span>
+                            <span className="logo">NAVNEET</span>
                         </motion.div>
                     </NavLink>
                     {
