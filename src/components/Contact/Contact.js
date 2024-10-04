@@ -98,7 +98,7 @@ const Contact = () => {
                 // alert("SUCCESS");
                 // console.log(result);
                 // console.log(result.text);
-                toast.success("Email Sent to Sadanand Success");
+                toast.success("Email Sent to Navneet Success");
                 // Optionally, you can add a success message or handle the success state here
             }, (error) => {
                 // alert("FAILED");
