@@ -47,7 +47,7 @@ const Banner = ({homeDetails}) => {
                             <Typewriter
                                 options={{
                                     strings: [
-                                        "Hi, The name's Sadanand",
+                                        "Hi, The name's Navneet",
                                         "Web Developer",
                                         "MERN Stack Developer",
                                     ],
